@@ -1,0 +1,107 @@
+.form-container {
+  background: linear-gradient(270deg, #545557 0%, #030812 100%);
+  border-radius: 8px;
+  padding: 20px;
+  width: 100%;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+form h2 {
+  color: #bb362a;
+  margin-bottom: 20px;
+}
+
+.form-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+
+.form-group:last-child {
+  margin-right: 0;
+}
+
+.form-group label {
+  color: #ff5733;
+  margin-bottom: 5px;
+}
+
+.form-group input,
+.form-group select {
+  padding: 10px;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+.upload-section {
+  margin-bottom: 20px;
+}
+
+.upload-section p {
+  color: #cccccc;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.upload-box {
+  border: 2px dashed #ffff;
+  border-radius: 4px;
+  padding: 20px;
+  text-align: center;
+  color: #cccccc;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.upload-box button {
+  background-color: #ff5733;
+  color: #ffffff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-top: 10px;
+}
+
+.submit-btn {
+  background-color: #bb362a;
+  font-weight: 700;
+  color: #ffffff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  width: 240px;
+}
+
+.submit-btn:hover {
+  background-color: #bb362a;
+}
+
+.badge-group {
+  display: flex;
+  flex-wrap: wrap; /* This ensures badges wrap to the next line if there's not enough space */
+}
+.badge-group{
+    margin: 40px 0px;
+}
+.badge-group .badge {
+    font-weight: 400;
+  padding-top: 6px;
+  font-size: 16px;
+  border-radius: 6px;
+  background: #ffffff;
+  color: #bb362a;
+  margin-right: 10px; /* Optional: Adds space between badges */
+}
+.drop-btn{
+    margin-top: 25px;
+    color: black;
+    background: white;
+    border-radius: 5px;
+}

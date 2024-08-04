@@ -1,0 +1,33 @@
+.shortlisted-kid-section #headline {
+  margin-top: 75px;
+  margin-bottom: 35px;
+  margin-left: 50px;
+  margin-right: 50px;
+  width: 256px;
+  height: 49px;
+  font-size: 40px;
+  font-weight: 500;
+  text-align: left;
+  color: #bb362a;
+}
+
+.suggested-kids-section #headline-secondary {
+  margin-top: 70px;
+  margin-bottom: 33px;
+  width: 997px;
+  height: 32px;
+  font-size: 26px;
+  font-weight: 500;
+  text-align: left;
+  color: #bb362a;
+}
+
+.suggested-kids-section .seeAll {
+margin-left: 70%;
+  font-size: 18px;
+  font-weight: 400;
+  text-align: right;
+  color: #bb362a;
+  cursor: pointer;
+  text-decoration: underline;
+}

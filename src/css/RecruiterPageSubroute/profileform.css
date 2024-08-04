@@ -1,0 +1,7 @@
+.profileform{
+    display: flex;
+}
+.profileform .form-container-custom{
+    padding: 10px;
+    width: 80%;
+}

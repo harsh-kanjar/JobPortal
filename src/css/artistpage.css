@@ -1,0 +1,17 @@
+#artist {
+  display: flex;
+}
+aside {
+  margin-top: 90px;
+  height: 700px;
+  width: 20%;
+  box-shadow: 4px 0px 8px 0px #bb362a26;
+}
+aside .links {
+  margin-left: 40px;
+  width: 223px;
+  height: 29px;
+  font-size: 24px;
+  font-weight: 400;
+  text-align: left;
+}

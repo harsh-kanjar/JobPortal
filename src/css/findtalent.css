@@ -1,0 +1,131 @@
+/* section-1 */
+.findtalent{
+  margin: 0px 40px;
+}
+.section-1-find-talent {
+  margin: 60px 0px;
+}
+.section-1-find-talent .filters {
+  margin-bottom: 56px;
+  width: 100%;
+  height: 226px;
+  border-radius: 12px;
+  opacity: 0px;
+  background: #555658;
+}
+.section-1-find-talent .drop-custom {
+  margin: 10px;
+}
+.section-1-find-talent button {
+  margin: 10px;
+  width: 194px;
+  height: 49px;
+  border-radius: 12px;
+  background: linear-gradient(90deg, #bb362a 0%, #f15042 100%);
+}
+
+.section-1-find-talent .sort-by {
+  margin-bottom: 54px;
+  display: flex;
+  align-items: center;
+  margin-top: 31px;
+  width: 100%;
+  height: 70px;
+  border-radius: 12px;
+  background: #555658;
+}
+
+.section-1-find-talent .sort-by span {
+  margin-left: 21px;
+  color: white;
+  text-align: center;
+  cursor: pointer;
+}
+
+.section-1-find-talent .sort-by span:nth-of-type(1) {
+  color: #fff;
+}
+
+.section-1-find-talent .sort-by span:nth-of-type(2) {
+  width: 149px;
+  height: 30px;
+  border-radius: 6px;
+  background: #bb362a;
+}
+.section-1-find-talent .sort-by span:nth-of-type(3),
+.section-1-find-talent .sort-by span:nth-of-type(4),
+.section-1-find-talent .sort-by span:nth-of-type(5) {
+  width: 149px;
+  height: 30px;
+  border-radius: 6px;
+  background: #ffffff;
+  color: #bb362a;
+}
+/* ======== */
+
+/* section-2 */
+.section-2-find-talent .custom-card {
+  display: flex;
+  border: 1px solid rgb(191, 185, 185);
+  border-radius: 0px 10px 10px 0px;
+}
+.section-2-find-talent .custom-card .info {
+  width: 68%;
+}
+.custom-card .info .headsection {
+    margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.custom-card .info .headsection span {
+  width: 94.2px;
+  height: 21px;
+  border-radius: 25px;
+  background: #bb362a;
+  padding: 2px 18px;
+  text-align: center;
+  color: #ffff;
+}
+.custom-card .info .headsection div{
+    margin-right: 10px;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.custom-card .info .main #name{
+    margin-left: 33px;
+    color: #bb362a;
+    font-size: 30px;
+}
+
+.custom-card .info .main #location{
+    margin-left: 33px;
+    font-size: 22px;
+}
+.custom-card .info .main .persnal-info .data{
+    margin-left: 33px;
+    color: #bb362a;
+    font-size: 22px;
+}
+.custom-card .info .main .persnal-info .data span{
+    font-weight: 700;
+}
+.custom-card .info .main  .info-para{
+    margin-top: 18px;
+    margin-bottom: 18px;
+    margin-left: 33px;
+    font-size: 20px;
+    font-weight: 700;
+}
+.custom-card .info .main .profile-link{
+    margin-left: 33px;
+    text-decoration: underline;
+    color: #bb362a;
+    cursor: pointer;
+}
+.section-2-find-talent .custom-card img {
+  width: 354px;
+  height: 324px;
+  object-fit: cover;
+}

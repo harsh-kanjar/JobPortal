@@ -1,0 +1,72 @@
+.findjob{
+  margin: 0px 50px ;
+}
+.job-find-section-1 #search-bar {
+  margin-top: 53px;
+  margin-bottom: 40px;
+  width: 100%;
+  height: 37px;
+  border-radius: 22px;
+  border: 1px solid black;
+}
+.job-find-section-1 .filters {
+  width: 100%;
+  height: 226px;
+  border-radius: 12px;
+  opacity: 0px;
+  background: #555658;
+}
+.job-find-section-1 .drop-custom {
+  margin: 10px;
+}
+.job-find-section-1 button {
+  margin: 10px;
+  width: 194px;
+  height: 49px;
+  border-radius: 12px;
+  background: linear-gradient(90deg, #bb362a 0%, #f15042 100%);
+}
+
+.job-find-section-1 .sort-by {
+  margin-bottom: 54px;
+  display: flex;
+  align-items: center;
+  margin-top: 31px;
+  width: 100%;
+  height: 70px;
+  border-radius: 12px;
+  background: #555658;
+}
+
+.job-find-section-1 .sort-by span {
+  margin-left: 21px;
+  color: white;
+  text-align: center;
+  cursor: pointer;
+}
+
+.job-find-section-1 .sort-by span:nth-of-type(1) {
+  color: #fff;
+}
+
+.job-find-section-1 .sort-by span:nth-of-type(2) {
+  width: 149px;
+  height: 30px;
+  border-radius: 6px;
+  background: #bb362a;
+}
+.job-find-section-1 .sort-by span:nth-of-type(3),
+.job-find-section-1 .sort-by span:nth-of-type(4),
+.job-find-section-1 .sort-by span:nth-of-type(5) {
+  width: 149px;
+  height: 30px;
+  border-radius: 6px;
+  background: #ffffff;
+  color: #bb362a;
+}
+
+/* section 2 */
+.job-find-section-2 .pageination-custom{
+    margin-top: 56px;
+    margin-bottom: 130px;
+}

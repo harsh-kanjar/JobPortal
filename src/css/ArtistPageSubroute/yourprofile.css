@@ -1,0 +1,101 @@
+.your-profile-section {
+  margin-top: 90px;
+  margin-left: 60px;
+}
+.your-profile-section img {
+    margin-bottom: 50px;
+  width: 354px;
+  height: 325px;
+  object-fit: cover;
+}
+.your-profile-section .tags span{
+    padding: 2px 12px;
+    margin-right: 6px;
+    color: #bb362a;
+    border: 1px solid #000000;
+    width: 94.2px;
+    height: 21px;
+    border-radius: 10px;
+    font-size: 13px;
+    font-weight: 600;
+    text-align: center;
+}
+.your-profile-section #name{
+    width: 354px;
+    height: 48px;
+    font-size: 40px;
+    font-weight: 600;
+    text-align: left;
+    color: #bb362a;
+}
+.your-profile-section #location{
+    width: 244px;
+    height: 27px;
+    font-size: 22px;
+    font-weight: 400;
+    text-align: left;
+    color: #000000;
+}
+.your-profile-section .data{
+    margin-right: 150px;
+    color: #bb362a;
+    font-size: 22px;
+}
+.your-profile-section .data span{
+    font-weight: 700;
+}
+.your-profile-section .title{
+    width: 922px;
+    height: 23px;
+    font-size: 24px;
+    font-weight: 600;
+    text-align: left;
+    color: #bb362a;
+}
+.your-profile-section .subtitle{
+    width: 922px;
+    height: 23px;
+    font-size: 18px;
+    font-weight: 500;
+    text-align: left;
+    color: #000000;
+}
+.your-profile-section  .paragraph{
+    width: 922px;
+    height: 95px;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: left;
+    color: #000000;
+}
+.your-profile-section .skills span{
+    padding: 2px 12px;
+    background-color: #bb362a;
+    color: #ffff;
+    border: 1px solid transparent;
+    width: 94.2px;
+    height: 21px;
+    border-radius: 10px;
+    font-size: 13px;
+    font-weight: 600;
+    text-align: center;
+}
+.your-profile-section .imgs{
+   
+    margin-left: 28px;
+    width: 300px;
+    border-radius: 20px;
+    object-fit: cover;
+}
+.your-profile-section .imgs-container{
+    margin-top: 40px;
+}
+.your-profile-section .add-button{
+    width: 200px;
+height: 29px;
+border: 1px solid #FFFFFF;
+color: #FFFFFF;
+border-radius: 6px;
+background: #000000;
+
+}

@@ -1,0 +1,50 @@
+.job-card {
+  margin-top: 27px;
+  /* width: 1400px; */
+  /* height: 280px; */
+  border-radius: 12px;
+  box-shadow: 4px 4px 4px 0px #00000040;
+}
+
+.headsection {
+  display: flex;
+  justify-content: space-between;
+}
+
+.headsection #title {
+  margin: 8px;
+  width: 409px;
+  height: 39px;
+  font-size: 36px;
+  font-weight: 600;
+  color: #bb362a;
+}
+.headsection .icons {
+  font-size: 33px;
+  cursor: pointer;
+}
+.location {
+  margin-top: 16px;
+  margin-bottom: 26px;
+  color: #bb362a;
+}
+.description {
+  margin-bottom: 33px;
+  width: 800px;
+}
+.apply {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+button {
+  margin: 14px;
+  width: 194px;
+  height: 49px;
+  border: 1px solid transparent;
+  border-radius: 12px;
+  box-shadow: 0px 4px 4px 0px #00000040;
+  background: linear-gradient(90deg, #bb362a 0%, #f15042 100%);
+  color: white;
+}

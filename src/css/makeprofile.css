@@ -1,0 +1,28 @@
+.make-profile-section {
+  margin-left: 110px;
+  margin-right: 130px;
+}
+.make-profile-section .heading {
+  margin-top: 110px;
+  margin-bottom: 40px;
+  width: 1000px;
+  height: 146px;
+  font-size: 60px;
+  font-weight: 400;
+  text-align: left;
+  color: #bb362a;
+}
+.make-profile-section .paragraph {
+  width: 1197px;
+  height: 126px;
+  font-size: 24px;
+  font-weight: 400;
+  text-align: left;
+}
+.make-profile-section .subtitle {
+  width: 637px;
+  height: 38px;
+  font-size: 31px;
+  font-weight: 500;
+  text-align: left;
+}

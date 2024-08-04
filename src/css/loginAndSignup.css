@@ -1,0 +1,71 @@
+.login-section-1 {
+  padding: 0px 200px;
+  margin-top: 124px;
+  margin-bottom: 137px;
+}
+.login-section-1 span {
+  color: #bb362a;
+  font-size: 36px;
+}
+.login-section-1 p {
+  font-size: 26;
+  width: 1160px;
+  height: 96px;
+}
+.login-section-2 {
+margin-bottom: 284px;
+  display: flex;
+  justify-content: center;
+}
+.login-section-2 .login-card {
+  background-color: black;
+  width: 642px;
+  height: 776px;
+  top: 527px;
+  left: 399px;
+  gap: 0px;
+  border-radius: 12px;
+  opacity: 0px;
+}
+.login-section-2 .login-card h1 {
+  margin-top: 29px;
+  margin-bottom: 46px;
+  text-align: center;
+  color: #bb362a;
+}
+.login-section-2 .login-card form {
+  margin: 0 40px;
+}
+.login-section-2 label {
+  font-size: 24px;
+  color: #ffff;
+}
+.login-section-2 .inputField {
+  width: 554px;
+  height: 53px;
+  border-radius: 10px;
+
+}
+.login-section-2 p {
+  color: #ffff;
+}
+.login-section-2 .btn-custom {
+  margin-left: 25%;
+  width: 292px;
+  height: 53px;
+  border-radius: 12px;
+  opacity: 0px;
+}
+.login-section-2 #forgot-pass {
+  margin-left: 55%;
+  cursor: pointer;
+}
+.login-section-2 .another-login-options {
+  margin-top: 100px;
+  text-align: center;
+}
+.login-section-2 .another-login-options span {
+  font-size: 24px;
+  margin-right: 8px;
+  color: white;
+}

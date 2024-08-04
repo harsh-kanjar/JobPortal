@@ -1,0 +1,9 @@
+.hired-section{
+    display: flex;
+}
+.kids-section{
+width: 950px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+}

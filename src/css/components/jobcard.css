@@ -1,0 +1,69 @@
+.job-card {
+  margin: 12px 0px;
+  padding: 0px 20px;
+  width: 979px;
+  height: 275px;
+  border-radius: 12px;
+  border: 0.2px solid #000000;
+}
+.job-card .headline {
+  margin-top: 18px;
+  width: 409px;
+  height: 39px;
+  font-size: 36px;
+  font-weight: 600;
+  text-align: left;
+  color: #bb362a;
+}
+.job-card .location {
+  width: 232px;
+  height: 27px;
+  font-size: 22px;
+  font-weight: 400;
+  text-align: left;
+  color: #bb362a;
+}
+.job-card .description {
+  width: 847px;
+  height: 49px;
+  font-size: 22px;
+  font-weight: 400;
+  text-align: left;
+}
+.job-card .applied-date {
+  font-size: 22px;
+  font-weight: 600;
+}
+.job-card .applied-date span:nth-of-type(1) {
+  width: 310px;
+  height: 27px;
+  font-size: 22px;
+  font-weight: 600;
+  text-align: left;
+  color: #bb362a;
+}
+.job-card .completed-date {
+  margin-left: 10%;
+  width: 316px;
+  height: 27px;
+  font-size: 22px;
+  font-weight: 600;
+  text-align: left;
+}
+.job-card .completed-date span:nth-of-type(1) {
+  width: 310px;
+  height: 27px;
+  font-size: 22px;
+  font-weight: 600;
+  text-align: left;
+  color: #bb362a;
+}
+.job-card .details {
+  margin-left: 10%;
+  width: 190.04px;
+  height: 44px;
+  border-radius: 12px;
+  border: 1px solid transparent;
+  background: linear-gradient(90deg, #bb362a 0%, #f15042 100%);
+  box-shadow: 0px 4px 4px 0px #00000040;
+}

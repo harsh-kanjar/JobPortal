@@ -1,0 +1,38 @@
+.find-similar-jobs {
+  margin: 0px 80px;
+  margin-bottom: 130px;
+}
+.find-similar-jobs .header {
+  margin-top: 140px;
+  margin-bottom: 60px;
+  width: 492px;
+  height: 39px;
+  font-size: 32px;
+  font-weight: 400;
+  text-align: left;
+}
+.find-similar-jobs .job-mini-card {
+  padding: 12px;
+  width: 363px;
+  height: 270px;
+  font-size: 22px;
+  border-radius: 13px;
+  border: 0.22px solid #000000;
+  box-shadow: 4.4px 4.4px 4.4px 0px #00000040;
+}
+.find-similar-jobs .job-mini-card .job-title {
+  width: 149px;
+  height: 39px;
+  font-size: 26px;
+  font-weight: 500;
+  color: #bb362a;
+}
+.find-similar-jobs .job-mini-card  .ic{
+    font-size: 26px;
+    /* margin-right: 8px; */
+    cursor: pointer;
+}
+.find-similar-jobs .job-mini-card  .ic span:nth-of-type(2){
+    font-size: 30px;
+    margin-left: 4px;
+}

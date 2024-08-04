@@ -1,0 +1,49 @@
+.main-page {
+  margin-left: 64px;
+  margin-right: 60px;
+}
+.main-page #headline {
+  margin-top: 90px;
+  width: 409px;
+  height: 49px;
+  font-size: 40px;
+  font-weight: 600;
+  text-align: left;
+  color: #bb362a;
+}
+.main-page #boxes {
+  margin-top: 63px;
+  margin-bottom: 43px;
+  display: flex;
+}
+.main-page #boxes .box {
+  margin-right: 75px;
+  width: 276px;
+  height: 178px;
+  border-radius: 8px;
+  border: 1px solid transparent;
+  background: linear-gradient(180deg, #555658 0%, #959596 100%);
+  box-shadow: 4px 4px 4px 0px #00000040;
+}
+
+.main-page #boxes .box p:nth-of-type(1) {
+  margin-left: 104px;
+  margin-top: 18px;
+  width: 67px;
+  height: 31px;
+  font-size: 40px;
+  font-weight: 600;
+  text-align: center;
+  color: #bb362a;
+}
+.main-page #boxes .box p:nth-of-type(2) {
+  margin-left: 46px;
+  margin-top: 20px;
+  width: 184px;
+  height: 56.11px;
+  font-size: 24px;
+  font-weight: 400;
+  text-align: center;
+
+  color: #ffff;
+}

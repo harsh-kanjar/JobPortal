@@ -1,0 +1,66 @@
+.custom-card {
+  margin-bottom: 32px;
+    display: flex;
+    border: 1px solid rgb(191, 185, 185);
+    border-radius: 0px 10px 10px 0px;
+  }
+  .custom-card .info {
+    width: 68%;
+  }
+  .custom-card .info .headsection {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .custom-card .info .headsection span {
+    width: 94.2px;
+    height: 21px;
+    border-radius: 25px;
+    background: #bb362a;
+    padding: 2px 18px;
+    text-align: center;
+    color: #ffff;
+  }
+  .custom-card .info .headsection div {
+    margin-right: 10px;
+    font-size: 24px;
+    cursor: pointer;
+  }
+  
+  .custom-card .info .main #name {
+    margin-left: 33px;
+    color: #bb362a;
+    font-size: 30px;
+  }
+  
+  .custom-card .info .main #location {
+    margin-left: 33px;
+    font-size: 22px;
+  }
+  .custom-card .info .main .persnal-info .data {
+    margin-left: 33px;
+    color: #bb362a;
+    font-size: 22px;
+  }
+  .custom-card .info .main .persnal-info .data span {
+    font-weight: 700;
+  }
+  .custom-card .info .main .info-para {
+    margin-top: 18px;
+    margin-bottom: 18px;
+    margin-left: 33px;
+    font-size: 20px;
+    font-weight: 700;
+  }
+  .custom-card .info .main .profile-link {
+    margin-left: 33px;
+    text-decoration: underline;
+    color: #bb362a;
+    cursor: pointer;
+  }
+  .custom-card img {
+    width: 354px;
+    height: 324px;
+    object-fit: cover;
+  }

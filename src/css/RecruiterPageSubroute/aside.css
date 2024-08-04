@@ -1,0 +1,26 @@
+aside .headline {
+    width: 409px;
+    height: 49px;
+    font-size: 40px;
+    font-weight: 600;
+    text-align: left;
+    color: #bb362a;
+  }
+aside .links{
+    text-decoration: none;
+    color: black;
+}
+aside .links:hover{
+    text-decoration: none;;
+}
+aside .is-active{
+    padding-left: 10px;
+    height: 40px;
+    background: linear-gradient(90deg, #BB362A 0%, #FFFFFF 100%);
+    text-decoration: none;
+    color: #FFFFFF;
+  }
+aside .link:hover{
+  text-decoration: none;
+}
+  

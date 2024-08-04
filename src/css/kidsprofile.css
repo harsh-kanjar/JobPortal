@@ -1,0 +1,151 @@
+.kidsprofile {
+  margin-left: 45px;
+  margin-right: 58px;
+  margin-top: 94px;
+  display: flex;
+}
+.profile-section-1{
+  width: 30%;
+}
+.profile-section-2{
+  width: 70%;
+}
+.profile-section-1 .persnal-info img {
+  width: 354px;
+  height: 325px;
+  object-fit: cover;
+}
+.details p:nth-of-type(1) {
+  width: 260px;
+  height: 23px;
+  color: #bb362a;
+  font-size: 24px;
+  font-weight: bold;
+}
+.details p:nth-of-type(2n) {
+  /* width: 223px; */
+  height: 23px;
+  color: #bb362a;
+  font-size: 20px;
+}
+.details p:nth-of-type(3),
+.details p:nth-of-type(5),
+.details p:nth-of-type(7),
+.details p:nth-of-type(9) {
+  width: 223px;
+  height: 23px;
+  color: #000000;
+  font-size: 20px;
+}
+/* section 2 */
+.profile-section-2 {
+  margin-left: 38px;
+}
+.profile-section-2 .tags span {
+  padding: 2px 12px;
+  margin-right: 6px;
+  color: #bb362a;
+  border: 1px solid #000000;
+  width: 94.2px;
+  height: 21px;
+  border-radius: 10px;
+  font-size: 13px;
+  font-weight: 600;
+  text-align: center;
+}
+.profile-section-2 .skills span {
+  padding: 2px 12px;
+  margin-right: 6px;
+  background-color: #bb362a;
+  color: #ffff;
+  border: 1px solid transparent;
+  width: 94.2px;
+  height: 21px;
+  border-radius: 10px;
+  font-size: 13px;
+  font-weight: 600;
+  text-align: center;
+}
+.profile-section-2 .badges span{
+  margin-right: 10px;
+  padding: 6px 18px;
+  width: 158.4px;
+  height: 64.8px;
+  top: 2098px;
+  left: 441px;
+  gap: 0px;
+  border-radius: 2px;
+  text-align: center;
+  background-color: #bb362a;
+  font-size: 20px;
+  color: #ffff;
+
+}
+.profile-section-2 .badges{
+  margin-bottom: 300px;
+}
+.profile-section-2 #name {
+  width: 354px;
+  height: 48px;
+  font-size: 40px;
+  font-weight: 600;
+  text-align: left;
+  color: #bb362a;
+}
+.profile-section-2 #location {
+  width: 244px;
+  height: 27px;
+  font-size: 22px;
+  font-weight: 400;
+  text-align: left;
+  color: #000000;
+}
+.profile-section-2 .data {
+  margin-right: 150px;
+  color: #bb362a;
+  font-size: 22px;
+}
+.profile-section-2 .data span {
+  font-weight: 700;
+}
+.profile-section-2 .persnal-info .title {
+  width: 922px;
+  height: 23px;
+  font-size: 24px;
+  font-weight: 600;
+  text-align: left;
+  color: #bb362a;
+}
+.profile-section-2 .persnal-info .subtitle {
+  width: 922px;
+  height: 23px;
+  font-size: 18px;
+  font-weight: 500;
+  text-align: left;
+  color: #000000;
+}
+.profile-section-2 .persnal-info .header {
+  width: 922px;
+  height: 23px;
+  font-size: 20px;
+  font-weight: 600;
+  text-align: left;
+  color: #bb362a;
+}
+.profile-section-2 .persnal-info .paragraph {
+  width: 922px;
+  height: 95px;
+  font-size: 18px;
+  font-weight: 400;
+  text-align: left;
+  color: #000000;
+}
+
+.profile-section-2 .bio p:nth-of-type(2) {
+  width: 922px;
+  height: 47px;
+  font-size: 20px;
+  font-weight: 400;
+  text-align: left;
+  color: #000000;
+}

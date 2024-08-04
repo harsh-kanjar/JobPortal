@@ -1,0 +1,93 @@
+/* ===============Navbar================= */
+/* src/Navbar.css */
+.navbar-brand {
+    font-weight: bold;
+    color: #bb362a;
+  }
+  
+  .navbar-nav .nav-link {
+    color: white;
+    margin-right: 20px;
+  }
+  
+  .navbar-nav .login-btn {
+    background-color: #bb362a;
+    border-radius: 20px;
+    padding: 5px 15px;
+  
+  }
+  .navbar-nav .login-btn span Link{
+    color: #fff;
+  }
+  
+  .navbar-nav .login-btn:hover {
+    background-color: #bb362a;
+    color: white;
+  }
+  /*====================================== */
+  
+
+ /* ===========Footer===================== */
+  /* src/Footer.css */
+  .footer {
+    background-image: url("/footer/background.png");
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 40px 20px;
+    height: 590px;
+  }
+  
+  .footer-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .footer-column {
+    flex: 1;
+    min-width: 200px;
+    margin: 10px;
+  }
+  
+  .footer-column h5 {
+    color: #bb362a;
+    margin-bottom: 20px;
+  }
+  
+  .footer-column ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .footer-column ul li {
+    margin-bottom: 10px;
+  }
+  
+  .footer-column ul li a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .footer-column ul li a:hover {
+    text-decoration: underline;
+  }
+  
+  .footer-social {
+    margin-top: 20px;
+  }
+  
+  .footer-social span {
+    margin-right: 10px;
+  }
+  
+  .footer-social a {
+    color: white;
+    margin-right: 10px;
+    font-size: 1.5em;
+  }
+  
+  .footer-social a:hover {
+    color: #bb362a;
+  }
+  /*=================================================  */

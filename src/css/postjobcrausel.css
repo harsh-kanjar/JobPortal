@@ -1,0 +1,28 @@
+.post-job-section {
+  margin-left: 110px;
+  margin-right: 130px;
+}
+.post-job-section .heading {
+  margin-top: 110px;
+  margin-bottom: 40px;
+  width: 1000px;
+  height: 146px;
+  font-size: 60px;
+  font-weight: 400;
+  text-align: left;
+  color: #bb362a;
+}
+.post-job-section .paragraph {
+  width: 1197px;
+  height: 126px;
+  font-size: 24px;
+  font-weight: 400;
+  text-align: left;
+}
+.post-job-section .subtitle {
+  width: 637px;
+  height: 38px;
+  font-size: 31px;
+  font-weight: 500;
+  text-align: left;
+}
